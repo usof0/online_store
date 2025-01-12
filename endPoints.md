@@ -1,4 +1,4 @@
-Based on the **online store plan** and **database schema** we designed. These endpoints will cover all the functionalities required for the online store, including user management, product management, orders, reviews, and more.
+These **endpoints** will cover all the functionalities required for the online store, including user management, product management, orders, reviews, and more.
 
 ---
 
